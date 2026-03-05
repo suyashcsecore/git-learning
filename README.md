@@ -6,3 +6,5 @@ Year: 2nd Year
 Hello! I am Suyash Mishra, a student passionate about technology and programming.
 
 I enjoy learning about programming, machine learning, and cloud computing.
+
+Currently improving my skills in Git, web development, and AI.
